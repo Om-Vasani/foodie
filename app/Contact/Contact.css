@@ -1,0 +1,117 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-1{
+
+   background-image: url('/Frame 2.png');
+   width: 1512px;
+   height: 465px;
+   background-size: cover;
+   margin: 0 auto;
+
+}
+h1{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 75px;
+   text-align: center;
+   color: #ffffff;
+   padding-top: 150px;
+   
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 30px;
+   text-align: center;
+   color: #ffffff;
+
+}
+.container-9{
+
+   width: 1500px;
+   height: 490px;
+   margin: 0 auto;
+   margin-top: 50px;
+   background-color: #111518;
+   
+}
+.row{
+
+   display: flex;
+
+}
+.col{
+
+   width: 640px;
+   height: 490px;
+   
+}
+form{
+
+   width: 565px;
+   height: 390px;
+   margin-top: 40px;
+   
+}
+input{
+
+   width: 275px;
+   height: 55px;
+   color: #ffffff;
+   background-color: #3e3e3e;
+   border-radius: 5px;
+   margin: 3px;
+   text-align: center;
+
+}
+.message{
+
+   width: 555px;
+   height: 195px;
+   
+}
+.send{
+
+   width: 275px;
+   height: 50px;
+   border-radius: 0px;
+   background-color: #ffba2b;
+   color: #ffffff;
+   margin-left: 150px;
+   margin-top: 5px;
+
+}
+.Maps{
+
+   width: 1500px;
+   height: 423px;
+   padding-top: 30px;
+   margin: 0 auto;
+
+}
+h2{
+
+   font-family: 'crimson text',sans-serif;
+   font-size: 40px;
+   margin-left: 175px;
+   color: #ffffff;
+   margin-top: 50px;
+}
+.images-7{
+
+   width: 285px;
+   height: 170px;
+   margin: 0 auto;
+   margin-top: 20px;
+}
+hr{
+
+   width: 270px;
+   height: 1px;
+   margin-left: 170px;
+
+}

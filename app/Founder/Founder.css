@@ -1,0 +1,164 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+
+.container-1{
+
+   background-image: url('/Frame 2.png');
+   width: 1512px;
+   height: 850px;
+   background-size: cover;
+   margin: 0 auto;
+
+}
+h1{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 75px;
+   text-align: center;
+   color: #ffffff;
+   padding-top: 150px;
+   
+}
+.card{
+
+   width: 1280px;
+   height: 545px;
+   margin-top: 80px;
+   
+}
+.row{
+
+   display: flex;
+
+}
+.col{
+
+   width: 720px;
+   height: 435px;
+   margin: 0 auto;
+   margin-top: 40px;
+   
+}
+h2{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 40px;
+   color: #ffffff;
+   margin-top: 50px;
+   
+}
+p{
+
+   font-family: 'work sans',sans-serif;
+   font-size: 15px;
+   color: #ffffff;
+}
+.images-6{
+
+   width: 431px;
+   height: 435px;
+   margin-top: 40px;
+   margin-left: -120px;
+}
+.headign-1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 28px;
+   color: #fecc07;
+   padding-top: 0px;
+
+}
+.headign-2{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 48px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+   
+}
+.card-2{
+
+   width: 275px;
+   height: 500px;
+   margin: 50px;
+   margin-top: -300px;
+
+}
+.images-7{
+
+   width: 274px;
+   height: 302px;
+   margin: 0 auto;
+   background-size: cover;
+
+}
+h3{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 22;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffff;
+
+}
+.card-text-2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   color: #ffffff;
+   text-align: center;
+   margin: 0 auto;
+
+}
+.card-3{
+
+   width: 1265px;
+   height: 230px;
+   margin: 0 auto;
+   background-color: #111518;
+   
+}
+.images-8{
+
+   width: 66px;
+   height: 66px;
+   margin-top: 80px !important;
+   margin: 80px;
+
+}
+.col-4{
+
+   width: 831px;
+   height: 91px;
+   margin-top: 80px;
+
+}
+.headign-3{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 33px;
+   color: #ffffff;
+
+}
+.text-2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 20px;
+   color: #ffffff;
+   margin-left: 110px;
+
+}
+.contact{
+
+   width: 150px;
+   height: 45px;
+   background-color: #fecc07;
+   color: #ffffff;
+   margin-top: 100px;
+
+}

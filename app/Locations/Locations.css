@@ -1,0 +1,132 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-1{
+
+   background-image: url('/Frame 2.svg');
+   width: 1500px;
+   height: 700px;
+   background-size: cover;
+   margin: 0 auto;
+
+}
+h1{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 75px;
+   text-align: center;
+   color: #ffffff;
+   padding-top: 150px;
+   
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 30px;
+   text-align: center;
+   color: #ffffff;
+
+}
+.container-2{
+
+   width: 1145px;
+   height: 330px;
+   margin: 0 auto;
+   transform: translateY(-280px);
+   
+}
+h2{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 40px;
+   text-align: center;
+   color: #ffffff;
+   
+}
+.hr-1{
+
+   width: 235px;
+   height: 1px;
+   margin: 0 auto;
+}
+.row{
+
+   display: flex;
+   
+}
+.cardpage{
+
+   width: 265px;
+   height: 210px;
+   background-color: #111518;
+   margin: 0 auto;
+   margin-top: 30px;
+   
+}
+.images-2{
+
+   margin: 0 auto;
+   margin-top: 30px;
+
+}
+h3{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 20px;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffff;
+
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 20px;
+   margin: 0 auto;
+   color: #ffffff;
+
+}
+.headign-2{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 30px;
+   text-align: center;
+   color: #ffffff;
+   margin-top: 20px;
+
+}
+.cardpage-2{
+
+   width: 220px;
+   height: 175px;
+   background-color: #111518;
+   margin: 0 auto;
+   margin-top: 20px;
+   
+}
+.headign-3{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18px;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffff;
+
+}
+.card-text-2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   margin: 0 auto;
+   color: #ffffff;
+
+}
+.Maps{
+
+   width: 1515px;
+   height: 510px;
+   
+}

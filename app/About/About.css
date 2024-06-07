@@ -1,0 +1,286 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-1{
+
+   background-image: url('/Group 558.jpg');
+   width: 1512px;
+   height: 465px;
+   background-size: cover;
+   margin: 0 auto;
+
+}
+.heading-6{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 72px;
+   color: #ffffff;
+   margin-left: 165px;
+   padding-top: 160px;
+   text-align: unset;
+
+}
+.Experieced{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 28px;
+   color: #ffffff;
+   margin-left: 170px;
+   text-align: unset;
+
+}
+.card{
+
+   width: 1512px;
+   height: 600px;
+   margin-top: 50px;
+   background-color: #0e1317;
+   
+}
+.row{
+
+   display: flex;
+
+}
+.headign-5{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 35px;
+   color: #ffffff;
+   padding-top: 30px;
+   
+}
+.hr-2{
+
+   color: #fecc07 !important;
+
+}
+.text{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   color: #ffffff;
+   margin-left: -10px;
+   margin-top: 20px;
+
+}
+h3{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 48px;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffff;
+   margin-top: 80px;
+
+}
+.hr-3{
+
+   width: 231px;
+   height: 1px;
+   margin: 0 auto;
+  
+}
+.text-2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   color: #ffffffe7;
+   margin-left: 270px;
+   margin-top: 30px;
+
+}
+.container-2{
+
+   width: 1248px;
+   height: 475px;
+   margin: 0 auto;
+   margin-top: 50px;
+   
+}
+.row{
+
+   display: flex;
+
+}
+.col{
+
+   width: 624px;
+   height: 473px;
+   background-color: #0e1317;
+
+}
+.col-2{
+
+   width: 624px;
+   height: 473px;
+   background-color: #272B2E;
+
+}
+.card-2{
+
+   width: 462px;
+   height: 365px;
+   margin-left: 80px;
+   margin-top: 50px;
+
+}
+.Mission, .Vision{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 48px;
+   color: #fecc07;
+   margin: 0 auto;
+   text-align: center;
+   margin-left: 0px;
+   padding-top: 30px;
+
+}
+.text-3{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   color: #ffffffe7;
+   margin-left: 40px;
+   margin-top: 0px;
+   
+}
+.container-3{
+
+   width: 1512px;
+   height: 437px;
+   margin: 0 auto;
+   margin-top: 50px;
+   background-color: #0e1317;
+
+}
+.card-3{
+
+   width: 367px;
+   height: 231px;
+   margin: 30px;
+   margin-left: 50px;
+   margin-top: 80px;
+
+}
+.images-2{
+
+   margin: 0 auto;
+   margin-top: 50px;
+
+}
+.text-4{
+
+   font-family: 'work sans', sans-serif;
+   font-size: 18px;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffff;
+   
+}
+.heading-3{
+
+   font-family: 'work sans', sans-serif;
+   font-size: 20px;
+   margin: 0 auto;
+   text-align: center;
+   margin-top: 20px;
+
+}
+.container-4{
+
+   background-image: url('/club-sandwich-with-side-french-fries 1.png');
+   width: 1512px;
+   height: 465px;
+   background-size: cover;
+   margin: 0 auto;
+   margin-top: 50px;
+}
+.imagespage{
+
+   width: 79px;
+   margin: 0 auto;
+   padding-top: 30px;
+
+}
+.heading-2{
+
+   width: 193px;
+   color: #ffffff;
+   margin-left: -48px;
+   font-family: "work sans",sans-serif;
+   font-size: 18px;
+   margin-top: 0px;
+
+}
+.headign-1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 28px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 50px;
+
+}
+.text-5{
+
+   font-family: 'montserrat', sans-serif;
+   font-size: 20px;
+   margin: 0 auto;
+   text-align: center;
+   color: #ffffffe7;  
+
+}
+.card-5{
+
+   width: 1265px;
+   height: 230px;
+   margin: 0 auto;
+   margin-top: 50px;
+   background-color: #111518;
+   
+}
+.images-8{
+
+   width: 66px;
+   height: 66px;
+   margin-top: 80px !important;
+   margin: 80px;
+
+}
+.col-4{
+
+   width: 831px;
+   height: 91px;
+   margin-top: 80px;
+
+}
+.headign-4{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 33px;
+   color: #ffffff;
+   margin-top: 0px;
+
+}
+.text-6{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 20px;
+   color: #ffffff;
+   margin-left: 110px;
+
+}
+.contact{
+
+   width: 150px;
+   height: 45px;
+   background-color: #fecc07;
+   color: #ffffff;
+   margin-top: 100px;
+
+}
